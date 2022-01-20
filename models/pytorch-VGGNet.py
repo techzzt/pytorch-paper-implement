@@ -135,7 +135,7 @@ with torch.no_grad():
         
         for i in range(4):
             label = labels[i]
-            class_true[label] += label[i].item()
+            class_true[label] += labels[i].item()
             class_total[label] += 1
             
 for i in range(10):
