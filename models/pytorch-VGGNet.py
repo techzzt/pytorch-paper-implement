@@ -139,4 +139,4 @@ with torch.no_grad():
             class_total[label] += 1
             
 for i in range(10):
-    print("Accuracy of %5s : %2d %%" % (classes[i], 100 * class_true[i] / class_total[i]))
+    print("Accuracy of %5s : %2d %%" % (classes[i], 10 * class_true[i] / class_total[i]))
