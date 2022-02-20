@@ -14,3 +14,5 @@ Image data를 바탕으로 모델을 구현하고 정리합니다.
   + Dataset (STL10)
 
 + [DenseNet (2016)](https://arxiv.org/abs/1608.06993)
+
++ [Xception (2016)](https://arxiv.org/abs/1610.02357)
