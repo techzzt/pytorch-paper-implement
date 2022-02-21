@@ -16,3 +16,10 @@ Image data를 바탕으로 모델을 구현하고 정리합니다.
 + [DenseNet (2016)](https://arxiv.org/abs/1608.06993)
 
 + [Xception (2016)](https://arxiv.org/abs/1610.02357)
+
+
+|         ConvNet            | Dataset |   Published In     |
+|:--------------------------:|:-------:|:------------------:|
+|          VGGNet            |  STL10  |      ICLR2015      |
+|        GoogleNet           |  STL10  |      CVPR2015      |
+|          ResNet            |  STL10  |      CVPR2015      |
