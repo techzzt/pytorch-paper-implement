@@ -25,3 +25,4 @@ Image data를 바탕으로 모델을 구현하고 정리합니다.
 |          VGGNet            |  STL10  |      ICLR2015      |
 |        GoogleNet           |  STL10  |      CVPR2015      |
 |          ResNet            |  STL10  |      CVPR2015      |
+|         DenseNet           |    -    |      ECCV2017      |
