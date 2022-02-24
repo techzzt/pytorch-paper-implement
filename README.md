@@ -1,6 +1,6 @@
 # Pytorch
 
-Image data를 바탕으로 모델을 구현하고 정리합니다. 
+Image data를 바탕으로 모델을 구현하고 정리합니다. /
 베이스가 되는 모델부터 최신 모델까지 구조를 공부하는 것을 목표로 합니다.
 
 ## Classification 
