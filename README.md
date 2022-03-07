@@ -23,6 +23,9 @@ Image data를 바탕으로 모델을 구현하고 정리합니다.
 + [Xception (2016)](https://arxiv.org/abs/1610.02357)
   + Xception: Deep Learning with Depthwise Separable Convolutions François Chollet
 
++ [ResNeXt (2017)](https://arxiv.org/abs/1611.05431)
+  + Aggregated Residual Transformations for Deep Neural Networks Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He
+  
 ## Model Summarize Table
 
 |         ConvNet            | Dataset |   Published In     |
@@ -31,3 +34,4 @@ Image data를 바탕으로 모델을 구현하고 정리합니다.
 |        GoogleNet           |  STL10  |      CVPR2015      |
 |          ResNet            |  STL10  |      CVPR2015      |
 |         DenseNet           |    -    |      ECCV2017      |
+|          ResNeXt           | CIFAR10 |      CVPR2017      |
