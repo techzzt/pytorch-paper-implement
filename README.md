@@ -7,15 +7,12 @@ Image data를 바탕으로 모델을 구현하고 정리합니다.
 ## Classification 
 + [VGGNet (2014)](https://arxiv.org/pdf/1409.1556.pdf)
   + Very Deep Convolutional Networks for Large-Scale Image Recognition. Karen Simonyan, Andrew Zisserman  
-  + Dataset (STL10)
-  
+ 
 + [GoogLeNet (2014)](https://arxiv.org/abs/1409.4842)
-  + Going Deeper with Convolutions Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich   
-  + Dataset (STL10)
+  + Going Deeper with Convolutions Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich 
 
 + [ResNet (2015)](https://arxiv.org/abs/1512.03385)
   + Deep Residual Learning for Image Recognition Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun   
-  + Dataset (STL10)
 
 + [DenseNet (2016)](https://arxiv.org/abs/1608.06993)
   + Densely Connected Convolutional Networks Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger
