@@ -23,7 +23,9 @@ Image data를 바탕으로 모델을 구현하고 정리합니다.
 + [ResNeXt (2017)](https://arxiv.org/abs/1611.05431)
   + Aggregated Residual Transformations for Deep Neural Networks Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He
  
- 
++ [SEResNet (2017)](https://arxiv.org/abs/1709.01507)
+  + Hu, Jie and Shen, Li and Albanie, Samuel and Sun, Gang and Wu, Enhua
+
 ## Model Summarize Table
 
 |         ConvNet            | Dataset |   Published In     |
