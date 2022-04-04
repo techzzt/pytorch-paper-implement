@@ -35,3 +35,4 @@ Image data를 바탕으로 모델을 구현하고 정리합니다.
 |          ResNet            |  STL10  |      CVPR2015      |
 |         DenseNet           |    -    |      ECCV2017      |
 |          ResNeXt           | CIFAR10 |      CVPR2017      |
+|         SEResNet           |    -    |      CVPR2018      |
