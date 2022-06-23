@@ -29,6 +29,7 @@ Image data를 바탕으로 모델을 구현하고 정리합니다.
 
 
 ## Generative Model
++ [GAN (2014)](https://arxiv.org/abs/1406.2661)
 
 ## Model Summarize Table
 
