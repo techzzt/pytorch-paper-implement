@@ -55,12 +55,6 @@ Image data를 바탕으로 모델을 구현하고 정리합니다.
 - [Multi-modality](#multi-modality)
 - [Extra](#extra)
 - [Pytorch Accelerator](#pytorch-accelerator)
-- [Members](#members)
-
-
-# CodeLab
-
-DSBA code study (2021.03.04 ~ )
 
 # Computer Vision
 
